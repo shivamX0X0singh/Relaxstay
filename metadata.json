@@ -1,0 +1,6 @@
+{
+  "name": "Relaxstay - Premium PG in Sector 104 Noida",
+  "description": "Premium paying guest and co-living accommodation at HA-90A Sector 104 Noida, Uttar Pradesh. Fully furnished AC rooms, 3 daily home-cooked meals, high-speed Wi-Fi & zero brokerage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
